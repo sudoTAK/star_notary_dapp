@@ -10,7 +10,7 @@ Star Certifier
 
 SCT
 
-### ERC-721 Token Address On Ropsten Network
+### Token Address On Ropsten Network
 
 0xc3442e68650111B4a2dC6414f71b2b0F6a679688
 
